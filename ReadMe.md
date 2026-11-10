@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a student currently exploring Machine Learning, Artificial Intelligence, and Data Analytics. I also have an interest in Cybersecurity and Cloud Computing.<br><br>I enjoy learning new technologies and working on practical projects to improve my skills, gain hands-on experience, and expand my knowledge.<br><br>Currently focused on learning, experimenting, and growing in the tech field.
 
 
